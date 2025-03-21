@@ -1,5 +1,8 @@
 ![You can find me in - the nearest trashcan](https://img.shields.io/badge/You%20can%20find%20me%20in%20-%20the%20nearest%20trashcan-lightgrey?style=for-the-badge)
 
+![Creating killer websites.](https://github.com/user-attachments/assets/1d652114-267b-43d8-88ad-cfdd37deb30c)
+
+
 <!--
 **Aeelx/Aeelx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
