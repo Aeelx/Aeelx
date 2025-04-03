@@ -1,6 +1,9 @@
 ![You can find me in - the nearest trashcan](https://img.shields.io/badge/You%20can%20find%20me%20in%20-%20the%20nearest%20trashcan-lightgrey?style=for-the-badge)
 
 ![Creating killer websites.](https://github.com/user-attachments/assets/1d652114-267b-43d8-88ad-cfdd37deb30c)
+![Mozilla Now!](https://github.com/user-attachments/assets/053e5bd9-49b6-486a-b7e7-1917c341fbb5)
+![Best Viewed with a Budgie](https://github.com/user-attachments/assets/83a9dded-0f13-440c-8ec9-03abfa390a1f)
+![GetFirefox](https://github.com/user-attachments/assets/a6b4ee21-801a-411c-8827-a8b2748d8914)
 
 
 <!--
